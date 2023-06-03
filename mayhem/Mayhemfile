@@ -1,0 +1,5 @@
+project: gpt4all
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
